@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @amorimcandido
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋  Olá me chamo Mauricio Candido
+- 👀 Me interesso em adquirir bastante conhecimentos, tecnologicos e experiencias
+- 🌱 Atualmente estou me dedicando a aprender programação, e ser um desenvolvedor
+- 💞️ Procuro colaborar, sempre trazendo experiencia e conhecimentos adquiridos na minha vida, e espero um dia servir de inspiração para alguém
+- 📫 Vocês podem estar me procurando nas minhas redes sociais.
+LinkedIn - https://www.linkedin.com/in/mauricio-candido-a34607150/ 
+Facebook - https://web.facebook.com/mauricio.junior.585112/ 
+GitHub - AmorimCandido
 
 <!---
 amorimcandido/amorimcandido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
