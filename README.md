@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou me dedicando a aprender programação, e ser um desenvolvedor
 - 💞️ Procuro colaborar, sempre trazendo experiencia e conhecimentos adquiridos na minha vida, e espero um dia servir de inspiração para alguém
 - 📫 Vocês podem estar me procurando nas minhas redes sociais.
-LinkedIn - https://www.linkedin.com/in/mauricio-candido-a34607150/ 
+<br> LinkedIn - https://www.linkedin.com/in/mauricio-candido-a34607150/ 
 <br> Facebook - https://web.facebook.com/mauricio.junior.585112/ 
 <br> GitHub - https://github.com/amorimcandido/amorimcandido
 
