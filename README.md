@@ -5,6 +5,7 @@
 - 📫 Vocês podem estar me procurando nas minhas redes sociais.
 LinkedIn - https://www.linkedin.com/in/mauricio-candido-a34607150/ 
 Facebook - https://web.facebook.com/mauricio.junior.585112/ 
+
 GitHub - https://github.com/amorimcandido/amorimcandido
 
 <!---
